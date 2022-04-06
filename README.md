@@ -1,7 +1,7 @@
 # Pacman Heuristic Search
 Project 2 for CPSC 481
 
-Group member:
+Group members:
 
 Shaochen Ren
 
